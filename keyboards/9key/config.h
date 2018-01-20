@@ -33,7 +33,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COLS 3
 
 /* 9Key PCB default pin-out */
-#define MATRIX_ROW_PINS { D1, D0, D4 }
+#define MATRIX_ROW_PINS { D4, D0, D1 }
 #define MATRIX_COL_PINS { F4, F5, F6 }
 #define UNUSED_PINS
 
@@ -45,7 +45,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ws2812_DDRREG   DDRD
 
 /* COL2ROW or ROW2COL */
-#define DIODE_DIRECTION COL2ROW
+#define DIODE_DIRECTION ROW2COL
 
 #define TAPPING_TERM 200
 
