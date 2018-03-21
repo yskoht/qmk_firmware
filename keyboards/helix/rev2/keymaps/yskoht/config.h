@@ -36,7 +36,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define EE_HANDS
 
 // Helix keyboard OLED support
-#define SSD1306OLED
+//#define SSD1306OLED
 
 /* Select rows configuration */
 // Rows are 4 or 5
