@@ -11,3 +11,6 @@
 [submodule "lib/googletest"]
 	path = lib/googletest
 	url = https://github.com/google/googletest
+[submodule "users/yskoht/thumbhelix"]
+	path = users/yskoht/thumbhelix
+	url = https://github.com/yskoht/thumbhelix.git
