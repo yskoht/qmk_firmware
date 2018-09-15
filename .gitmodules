@@ -14,3 +14,6 @@
 [submodule "users/yskoht/thumbhelix"]
 	path = users/yskoht/thumbhelix
 	url = https://github.com/yskoht/thumbhelix.git
+[submodule "keyboards/pakbd"]
+	path = keyboards/pakbd
+	url = git@github:yskoht/pakbd.git
